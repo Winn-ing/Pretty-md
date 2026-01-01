@@ -1,5 +1,5 @@
 {
-  "name": "pretty-md",
+  "name": "WINNING",
   "version": "1.0.6",
   "description": "WhatsApp Bot",
   "main": "index.js",
@@ -20,7 +20,7 @@
   "keywords": [
     "whatsapp-bot"
   ],
-  "author": "superstar",
+  "author": "WINNING",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "latest",
